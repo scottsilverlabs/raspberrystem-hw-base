@@ -1464,8 +1464,8 @@ Please make sure your boards conform to these design rules.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="U1" library="ScottSilver" package="MICROUSB_THRU" value="MICROUSBMICROUSB_THRU" x="4.25" y="9"/>
-<element name="U$3" library="ScottSilver" package="SC189" value="SC189" x="8" y="9" smashed="yes" rot="R270"/>
+<element name="J1" library="ScottSilver" package="MICROUSB_THRU" value="MICROUSBMICROUSB_THRU" x="4.25" y="9"/>
+<element name="U1" library="ScottSilver" package="SC189" value="SC189" x="8" y="9" smashed="yes" rot="R270"/>
 <element name="C1" library="resistor" package="C0805K" value="10uF" x="7.5" y="11.5" smashed="yes">
 <attribute name="NAME" x="7.5" y="14" size="1.016" layer="25"/>
 <attribute name="VALUE" x="6" y="12.5" size="1.016" layer="27"/>
@@ -1482,9 +1482,9 @@ Please make sure your boards conform to these design rules.</description>
 </elements>
 <signals>
 <signal name="N$1">
-<contactref element="U1" pad="VCC"/>
-<contactref element="U$3" pad="1"/>
-<contactref element="U$3" pad="3"/>
+<contactref element="J1" pad="VCC"/>
+<contactref element="U1" pad="1"/>
+<contactref element="U1" pad="3"/>
 <contactref element="C1" pad="1"/>
 <wire x1="4.25" y1="10.3" x2="6.5" y2="10.3" width="0.4064" layer="1"/>
 <wire x1="6.5" y1="10.3" x2="6.5" y2="11.5" width="0.4064" layer="1"/>
@@ -1507,7 +1507,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="4.25" y1="10.5" x2="4.25" y2="10.3" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$3">
-<contactref element="U$3" pad="4"/>
+<contactref element="U1" pad="4"/>
 <contactref element="C2" pad="1"/>
 <contactref element="L1" pad="2"/>
 <wire x1="9.25" y1="8.05" x2="10" y2="7.8" width="0.4064" layer="1"/>
@@ -1521,14 +1521,14 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="15" y1="8.5" x2="27.5" y2="8.5" width="0.8128" layer="1"/>
 </signal>
 <signal name="LX">
-<contactref element="U$3" pad="5"/>
+<contactref element="U1" pad="5"/>
 <contactref element="L1" pad="1"/>
 <wire x1="9.25" y1="9.95" x2="10.25" y2="10.4" width="0.8128" layer="1"/>
 <wire x1="10.25" y1="10.4" x2="11.5" y2="10.4" width="0.8128" layer="1"/>
 </signal>
 <signal name="GND">
-<contactref element="U1" pad="GND"/>
-<contactref element="U$3" pad="2"/>
+<contactref element="J1" pad="GND"/>
+<contactref element="U1" pad="2"/>
 <contactref element="C1" pad="2"/>
 <contactref element="C2" pad="2"/>
 <contactref element="U$2" pad="1"/>

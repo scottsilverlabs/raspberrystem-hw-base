@@ -1464,7 +1464,7 @@ Please make sure your boards conform to these design rules.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="U$1" library="ScottSilver" package="MICROUSB_THRU" value="MICROUSBMICROUSB_THRU" x="4.25" y="9"/>
+<element name="U1" library="ScottSilver" package="MICROUSB_THRU" value="MICROUSBMICROUSB_THRU" x="4.25" y="9"/>
 <element name="U$3" library="ScottSilver" package="SC189" value="SC189" x="8" y="9" smashed="yes" rot="R270"/>
 <element name="C1" library="resistor" package="C0805K" value="10uF" x="7.5" y="11.5" smashed="yes">
 <attribute name="NAME" x="7.5" y="14" size="1.016" layer="25"/>
@@ -1482,7 +1482,7 @@ Please make sure your boards conform to these design rules.</description>
 </elements>
 <signals>
 <signal name="N$1">
-<contactref element="U$1" pad="VCC"/>
+<contactref element="U1" pad="VCC"/>
 <contactref element="U$3" pad="1"/>
 <contactref element="U$3" pad="3"/>
 <contactref element="C1" pad="1"/>
@@ -1527,7 +1527,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="10.25" y1="10.4" x2="11.5" y2="10.4" width="0.8128" layer="1"/>
 </signal>
 <signal name="GND">
-<contactref element="U$1" pad="GND"/>
+<contactref element="U1" pad="GND"/>
 <contactref element="U$3" pad="2"/>
 <contactref element="C1" pad="2"/>
 <contactref element="C2" pad="2"/>

@@ -137,6 +137,7 @@
 <circle x="19" y="4" radius="3.5" width="0.4064" layer="42"/>
 <text x="3" y="13" size="1.016" layer="21">J1</text>
 <text x="7.5" y="8.5" size="1.016" layer="21">U1</text>
+<text x="25" y="11" size="1.016" layer="21">J2</text>
 </plain>
 <libraries>
 <library name="ScottSilver">

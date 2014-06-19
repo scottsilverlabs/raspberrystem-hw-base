@@ -4726,7 +4726,7 @@ Source: www.sumida.com/products/pdf/CEP125.pdf</description>
 <pinref part="U$2" gate="G$1" pin="3"/>
 </segment>
 </net>
-<net name="N$2" class="0">
+<net name="GND" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="GND"/>
 <wire x1="33.02" y1="53.34" x2="33.02" y2="48.26" width="0.1524" layer="91"/>

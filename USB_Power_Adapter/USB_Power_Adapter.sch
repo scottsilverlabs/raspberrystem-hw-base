@@ -4684,7 +4684,7 @@ Source: www.sumida.com/products/pdf/CEP125.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="U$1" library="ScottSilver" deviceset="MICROUSB" device="MICROUSB_THRU"/>
+<part name="U1" library="ScottSilver" deviceset="MICROUSB" device="MICROUSB_THRU"/>
 <part name="U$3" library="ScottSilver" deviceset="SC189" device=""/>
 <part name="C1" library="resistor" deviceset="C-US" device="C0805K" value="10uF"/>
 <part name="C2" library="resistor" deviceset="C-US" device="C0805K" value="22uF"/>
@@ -4696,7 +4696,7 @@ Source: www.sumida.com/products/pdf/CEP125.pdf</description>
 <plain>
 </plain>
 <instances>
-<instance part="U$1" gate="G$1" x="60.96" y="55.88"/>
+<instance part="U1" gate="G$1" x="60.96" y="55.88"/>
 <instance part="U$3" gate="G$1" x="58.42" y="83.82"/>
 <instance part="C1" gate="G$1" x="20.32" y="86.36"/>
 <instance part="C2" gate="G$1" x="76.2" y="78.74"/>
@@ -4708,7 +4708,7 @@ Source: www.sumida.com/products/pdf/CEP125.pdf</description>
 <nets>
 <net name="N$1" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="VCC"/>
+<pinref part="U1" gate="G$1" pin="VCC"/>
 <wire x1="33.02" y1="63.5" x2="43.18" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="63.5" x2="45.72" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="63.5" x2="33.02" y2="68.58" width="0.1524" layer="91"/>
@@ -4728,7 +4728,7 @@ Source: www.sumida.com/products/pdf/CEP125.pdf</description>
 </net>
 <net name="GND" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="GND"/>
+<pinref part="U1" gate="G$1" pin="GND"/>
 <wire x1="33.02" y1="53.34" x2="33.02" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="48.26" x2="35.56" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="35.56" y1="48.26" x2="45.72" y2="48.26" width="0.1524" layer="91"/>

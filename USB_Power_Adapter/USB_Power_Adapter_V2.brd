@@ -142,7 +142,7 @@
 <text x="33.5" y="7.5" size="1.016" layer="21" font="vector">J2</text>
 <circle x="28.5" y="5" radius="3.758321875" width="0.4064" layer="42"/>
 <circle x="10" y="5" radius="3.758321875" width="0.4064" layer="42"/>
-<text x="20.5" y="5" size="1.016" layer="21" font="vector">L1</text>
+<text x="20.5" y="4" size="1.016" layer="21" font="vector">L1</text>
 <circle x="10" y="5" radius="3.758321875" width="0.4064" layer="41"/>
 <circle x="28.5" y="5" radius="3.758321875" width="0.4064" layer="41"/>
 </plain>

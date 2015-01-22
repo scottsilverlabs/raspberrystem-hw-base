@@ -139,11 +139,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.56493645"
-     inkscape:cx="197.5276266"
-     inkscape:cy="1010.50411"
+     inkscape:zoom="1.351176526"
+     inkscape:cx="477.309083"
+     inkscape:cy="754.0966503"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3387"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -186,7 +186,7 @@
        dotted="false" />
     <sodipodi:guide
        orientation="1,0"
-       position="474.59375,930.9375"
+       position="454.4533612,568.5611164"
        id="guide3238" />
     <sodipodi:guide
        orientation="1,0"
@@ -408,7 +408,7 @@
       <g
          id="g6193"
          style="stroke-width:0.0900000036;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="translate(22.5,11.25)">
+         transform="translate(13.50000002,11.25)">
         <path
            sodipodi:type="arc"
            style="fill:none;stroke:#ff0000;stroke-width:0.1307619959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -458,7 +458,7 @@
          d="m 100.607143,-485.0844401 c -6.2325,0 -11.25,5.0175 -11.25,11.25 l 0,33.75 c 0,6.2325 0,11.25 5.625,11.25 l 10.5625,0 c 0,0.3883252 0.2991748,0.71875 0.6875,0.71875 0.3883252,0 0.6875,-0.3304248 0.6875,-0.71875 0,-0.3883252 -0.2991748,-0.6875 -0.6875,-0.6875 l 0,-26.75 c 0.3883252,0 0.6875,-0.2991748 0.6875,-0.6875 0,-0.3883252 -0.2991748,-0.6875 -0.6875,-0.6875 -0.3670147,0 -0.6555316,0.2662991 -0.6875,0.625 -2.5678695,-0.4015731 -4.9375,-2.9776898 -4.9375,-5.5625 0,-2.8125 2.8125,-5.625 5.625,-5.625 l 292.5,0 c 2.8125,0 5.625,2.8125 5.625,5.625 0,2.5848102 -2.3696305,5.1609269 -4.9375,5.5625 -0.031968,-0.3587009 -0.3204853,-0.625 -0.6875,-0.625 -0.3883252,0 -0.6875,0.2991748 -0.6875,0.6875 0,0.3883252 0.2991748,0.6875 0.6875,0.6875 l 0,26.75 c -0.3883252,0 -0.6875,0.2991748 -0.6875,0.6875 0,0.3883252 0.2991748,0.71875 0.6875,0.71875 0.3883252,0 0.6875,-0.3304248 0.6875,-0.71875 l 10.5625,0 c 5.625,0 5.625,-5.0175 5.625,-11.25 l 0,-33.75 c 0,-6.2325 -5.0175,-11.25 -11.25,-11.25 z"
          id="path3418" />
       <g
-         transform="translate(-319.1247638,-287.3111165)"
+         transform="translate(-328.1247638,-287.3111165)"
          id="g3815">
         <g
            transform="translate(-50.62499998,343.125)"

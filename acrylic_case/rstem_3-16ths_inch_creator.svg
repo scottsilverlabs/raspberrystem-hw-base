@@ -139,11 +139,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9415805757"
-     inkscape:cx="520.5918547"
-     inkscape:cy="638.4354381"
+     inkscape:zoom="7.237070027"
+     inkscape:cx="500.7952784"
+     inkscape:cy="794.7944806"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3385"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -844,7 +844,8 @@
            id="g3258" />
       </g>
       <g
-         id="g3346">
+         id="g3346"
+         transform="translate(0,1.800000045)">
         <path
            sodipodi:type="arc"
            style="fill:none;stroke:#ff0000;stroke-width:0.1307619959;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"

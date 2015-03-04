@@ -139,17 +139,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8986095601"
-     inkscape:cx="891.8419779"
-     inkscape:cy="851.0204448"
+     inkscape:zoom="0.6092000221"
+     inkscape:cx="484.0125195"
+     inkscape:cy="665.7496286"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1788"
-     inkscape:window-height="1148"
-     inkscape:window-x="1321"
+     inkscape:window-width="1188"
+     inkscape:window-height="747"
+     inkscape:window-x="81"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -971,6 +971,34 @@
            d="m 776.25,759.375 c 0,3.1066017 -2.5183983,5.625 -5.625,5.625 -3.1066017,0 -5.625,-2.5183983 -5.625,-5.625 0,-3.1066017 2.5183983,-5.625 5.625,-5.625 3.1066017,0 5.625,2.5183983 5.625,5.625 z"
            transform="matrix(0.875,0,0,0.875,-202.424107,-698.42819)" />
       </g>
+    </g>
+    <g
+       id="g3922">
+      <rect
+         transform="translate(44.357143,-715.70944)"
+         y="22.5"
+         x="450"
+         height="90"
+         width="90"
+         id="rect3128"
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3916"
+         y="-653.97504"
+         x="502.12668"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Commando;-inkscape-font-specification:Commando"
+         xml:space="preserve"><tspan
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           y="-653.97504"
+           x="502.12668"
+           id="tspan3918"
+           sodipodi:role="line">Reference</tspan><tspan
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3920"
+           y="-633.97504"
+           x="502.12668"
+           sodipodi:role="line">1 inch Sq</tspan></text>
     </g>
   </g>
 </svg>

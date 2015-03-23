@@ -139,9 +139,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4552296954"
-     inkscape:cx="669.4494468"
-     inkscape:cy="545.2150577"
+     inkscape:zoom="1.049162189"
+     inkscape:cx="369.1408232"
+     inkscape:cy="1178.846608"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -149,8 +149,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1188"
      inkscape:window-height="747"
-     inkscape:window-x="81"
-     inkscape:window-y="0"
+     inkscape:window-x="1566"
+     inkscape:window-y="214"
      inkscape:window-maximized="0"
      units="in"
      fit-margin-top="0"
@@ -365,7 +365,7 @@
          ry="5.625" />
     </g>
     <g
-       id="g3738"
+       id="g3103"
        transform="translate(-274.234375,-592.875)">
       <rect
          ry="5.625"
@@ -485,7 +485,7 @@
          sodipodi:nodetypes="ssssssssssssssssccssssssss"
          inkscape:connector-curvature="0"
          id="path3974-1-8"
-         d="m 369.404018,-100.33444 c -3.2237069,0 -5.8125,2.50875 -5.8125,5.625 l 0,101.25 c 0,3.11625 2.5887931,5.625 5.8125,5.625 l 16.6875,0 c 2.8125,0 5.625,-2.8125 5.625,-5.625 l 0,-14.0625 c 0,-2.8125 2.8125,-5.625 5.625,-5.625 l 33.75,0 c 2.8125,0 5.625,2.8125 5.625,5.625 l 0,14.0625 c 0,2.8125 2.8220732,5.625 5.625,5.625 l 29.25,0 c 2.8125,0 5.625,-2.8125 5.625,-5.625 l 0,-24.1875 c 0,-3.11625 2.5087503,-5.625 5.625,-5.625 l 0.15625,0 206.84375,0 c 3.1162497,0 5.625,2.50875 5.625,5.625 l 0,24.1875 c 0,2.846776 2.8125,5.625 5.625,5.625 l 16.65625,0 c 3.223707,0 5.84375,-2.50875 5.84375,-5.625 l 0,-101.25 c 0,-3.11625 -2.620043,-5.625 -5.84375,-5.625 z"
+         d="m 372.029018,-100.33444 c -3.2237069,0 -5.8125,2.50875 -5.8125,5.625 l 0,101.25 c 0,3.11625 2.5887931,5.625 5.8125,5.625 l 14.0625,0 c 2.8125,0 5.625,-2.8125 5.625,-5.625 l 0,-14.0625 c 0,-2.8125 2.8125,-5.625 5.625,-5.625 l 33.75,0 c 2.8125,0 5.625,2.8125 5.625,5.625 l 0,14.0625 c 0,2.8125 2.8220732,5.625 5.625,5.625 l 29.25,0 c 2.8125,0 5.625,-2.8125 5.625,-5.625 l 0,-24.1875 c 0,-3.11625 2.5087503,-5.625 5.625,-5.625 l 0.15625,0 206.84375,0 c 3.1162497,0 5.625,2.50875 5.625,5.625 l 0,24.1875 c 0,2.846776 2.8125,5.625 5.625,5.625 l 14.0625,0 c 3.223707,0 5.84375,-2.50875 5.84375,-5.625 l 0,-101.25 c 0,-3.11625 -2.620043,-5.625 -5.84375,-5.625 z"
          style="fill:none;stroke:#ff0000;stroke-width:0.0900000036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <g
          id="g3763"
@@ -791,34 +791,6 @@
            d="m 776.25,759.375 c 0,3.1066017 -2.5183983,5.625 -5.625,5.625 -3.1066017,0 -5.625,-2.5183983 -5.625,-5.625 0,-3.1066017 2.5183983,-5.625 5.625,-5.625 3.1066017,0 5.625,2.5183983 5.625,5.625 z"
            transform="matrix(0.875,0,0,0.875,-202.424107,-698.42819)" />
       </g>
-    </g>
-    <g
-       id="g3922">
-      <rect
-         transform="translate(44.357143,-715.70944)"
-         y="22.5"
-         x="450"
-         height="90"
-         width="90"
-         id="rect3128"
-         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;stroke-width:0.09;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3916"
-         y="-653.97504"
-         x="502.12668"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Commando;-inkscape-font-specification:Commando"
-         xml:space="preserve"><tspan
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           y="-653.97504"
-           x="502.12668"
-           id="tspan3918"
-           sodipodi:role="line">Reference</tspan><tspan
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
-           id="tspan3920"
-           y="-633.97504"
-           x="502.12668"
-           sodipodi:role="line">1 inch Sq</tspan></text>
     </g>
   </g>
 </svg>

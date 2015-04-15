@@ -11,7 +11,7 @@
 # TO CREATE THE PACKAGE
 #
 # - First time for an new EagleCAD schematic/board:
-#	  - cp raspberrystem-hw-base/PCB/Makefile <your_proj>/
+#     - cp raspberrystem-hw-base/PCB/Makefile <your_proj>/
 # - Prepare fab notes
 #     - Add any additional fab notes in README-BRD.txt
 #     - Add any images for reference.  In general, this is likely prototype
@@ -24,13 +24,13 @@
 #     - Run ERC/DRC check in Eagle
 #     - NOTE: a directory "gerbers" must exist
 #     - Then,
-#		  - File->CAM Processor...
-#		  - File->Open->Job...
-#			  - Select sfe-gerb274x.cam from this directory
-#	      - File->Open->Board...
-#			  - Select <name>.BRD from this directory
-#		  - Click "Process Job"
-#		  - All files should now be created in the gerbers directory.
+#         - File->CAM Processor...
+#         - File->Open->Job...
+#             - Select raspberrystem-hw-base/PCB/sfe-gerb274x.cam
+#         - File->Open->Board...
+#             - Select <name>.BRD from this directory
+#         - Click "Process Job"
+#         - All files should now be created in the gerbers directory.
 # - Check in all files to git
 # - Create archive with "make": <name>.zip
 #
@@ -79,6 +79,10 @@ $(ZIP): $(SOURCES) Makefile
 .INTERMEDIATE: $(README)
 $(README): $(MASTER_README)
 	cp $(MASTER_README) $(README)
+
+help:
+	@# Print header of this file
+	awk '/^#/;/^[^#]/{exit}' $(COMMON_DIR)/master.mak
 
 clean:
 	rm -f $(ZIP)

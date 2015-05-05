@@ -21,6 +21,7 @@
 # - Create/Verify BOM
 # - In Eagle:
 #     - Verify schematic/board files are complete
+#     - Update version on silkscreen if needed.
 #     - Run ERC/DRC check in Eagle
 #     - NOTE: a directory "gerbers" must exist
 #     - Then,
@@ -32,7 +33,10 @@
 #         - Click "Process Job"
 #         - All files should now be created in the gerbers directory.
 # - Check in all files to git
-# - Create archive with "make": <name>.zip
+# - git tag, with name-version.  For example:
+#		git tag lid_gamer_pcb-01b
+# - Create archive with "make".  Filename will be <name>.zip
+# - Save package in Dropbox
 #
 SCH=$(wildcard *.sch)
 

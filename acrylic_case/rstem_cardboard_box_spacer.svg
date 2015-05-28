@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2160"
-   height="1620"
+   height="1440"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -141,17 +141,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7997593094"
-     inkscape:cx="426.3536878"
-     inkscape:cy="1647.08028"
+     inkscape:zoom="0.3824359775"
+     inkscape:cx="1172.587412"
+     inkscape:cy="837.0927701"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1188"
-     inkscape:window-height="747"
-     inkscape:window-x="81"
+     inkscape:window-width="1624"
+     inkscape:window-height="946"
+     inkscape:window-x="1442"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      units="in"
@@ -200,7 +200,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -208,7 +208,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-44.357143,1255.70944)">
+     transform="translate(-44.357143,1075.70944)">
     <g
        id="g2992"
        transform="translate(101.2167577,-129.6825581)"
@@ -273,9 +273,71 @@
        id="g5442-9-0-9" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.0900000036;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
-       d="m 66.857143,-1244.45944 c -6.2325,0 -11.25,5.0175 -11.25,11.25 l 0,427.5 c 0,6.2325 5.0175,11.25 11.25,11.25 l 663.75,0 c 6.2325,0 11.25,-5.0175 11.25,-11.25 l 0,-427.5 c 0,-6.2325 -5.0175,-11.25 -11.25,-11.25 l -286.875,0 c 0,24.852814 -20.1471863,45 -45,45 -24.8528137,0 -45,-20.147186 -45,-45 z"
+       d="m 68.263393,-1064.45944 c -6.2325,0 -11.25,5.0175 -11.25,11.25 l 0,427.5 c 0,6.2325 5.0175,11.25 11.25,11.25 l 660.9375,0 c 6.2325,0 11.25,-5.0175 11.25,-11.25 l 0,-427.5 c 0,-6.2325 -5.0175,-11.25 -11.25,-11.25 l -279.84375,0 c -4.21875,0 -5.625,1.40625 -5.625,5.625 0,24.852814 -20.1471863,39.375 -45,39.375 -24.8528137,0 -45,-14.522186 -45,-39.375 0,-4.21875 -1.40625,-5.625 -5.6876725,-5.625 z"
        id="path3112"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssscscs" />
+       sodipodi:nodetypes="ssssssssccsccs"
+       inkscape:tile-cx="354.375"
+       inkscape:tile-cy="236.25"
+       inkscape:tile-w="686.375"
+       inkscape:tile-h="450.125"
+       inkscape:tile-x0="11.1875"
+       inkscape:tile-y0="11.1875" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3112"
+       xlink:href="#path3112"
+       transform="translate(0,459.1275)"
+       id="use3079" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3112"
+       xlink:href="#path3112"
+       transform="translate(0,918.255)"
+       id="use3081" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3112"
+       xlink:href="#path3112"
+       transform="translate(700.1025,0)"
+       id="use3083" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3112"
+       xlink:href="#path3112"
+       transform="translate(700.1025,459.1275)"
+       id="use3085" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3112"
+       xlink:href="#path3112"
+       transform="translate(700.1025,918.255)"
+       id="use3087" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3112"
+       xlink:href="#path3112"
+       transform="translate(1400.205,0)"
+       id="use3089" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3112"
+       xlink:href="#path3112"
+       transform="translate(1400.205,459.1275)"
+       id="use3091" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path3112"
+       xlink:href="#path3112"
+       transform="translate(1400.205,918.255)"
+       id="use3093" />
   </g>
 </svg>
